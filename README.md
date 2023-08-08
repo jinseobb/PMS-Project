@@ -13,3 +13,6 @@
 * `JDK 1.8.0`
 - **IDE** : Eclipse
 - **Database** : Oracle DB(11xe)
+
+### 📌 주요 기능
+
