@@ -18,5 +18,5 @@
 
 ### 📌 주요 기능
 > 메인 화면
-<img width="80%" src="https://github.com/jinseobb/PMS-Project/assets/131458472/8737f437-d977-401f-8d32-c70d799090e3"/>
-`📋 구현 기능`
+<img src="https://github.com/jinseobb/PMS-Project/assets/131458472/8737f437-d977-401f-8d32-c70d799090e3"/>  
+📋 구현 기능
