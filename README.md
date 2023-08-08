@@ -18,5 +18,7 @@
 
 ### 📌 주요 기능
 > 메인 화면
-<img src="https://github.com/jinseobb/PMS-Project/assets/131458472/8737f437-d977-401f-8d32-c70d799090e3"/>  
-📋 구현 기능
+<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/0c71a1d0-3106-4b06-8be9-3708af7868af"/>
+  
+📋 구현 기능  
+* 메인 화면으로 본인의 프로젝트 세부 현황에 대한 정보가 출력되는 페이지
