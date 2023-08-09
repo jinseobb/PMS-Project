@@ -15,6 +15,14 @@
 * `JDK 1.8.0`
 - **IDE** : Eclipse
 - **Database** : Oracle DB(11xe)
+</br>
+</br>
+</br>
+
+> ## :keyboard:DB 설계
+<p align="center"><img width="550px" src="https://github.com/ukkkk7/PMS-Project/assets/117158625/304795d2-d019-43c9-944a-134d77cb1632" width="550" height="400"/></p>   
+
+</br></br>
 
 ### 📌 주요 기능
 > 메인 화면
