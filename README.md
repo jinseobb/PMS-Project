@@ -84,6 +84,7 @@
 
 > 결재 안건 관리 페이지
 <img width="350px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/e454c780-b2d4-48d6-9965-100f6f254499"/>
+<img width="350px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/98944668-8b52-416e-a659-e98b67dd73c2"/>
   
 📋 구현 기능  
 * PA는 PM에게 결재를 올릴 수 있다.
