@@ -65,4 +65,12 @@
 
 <br/>
 
+> 프로젝트 산출물 목록 출력 화면
+<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/1af67c86-5e2e-42a9-b8c1-d1ef378ce563"/>
+  
+📋 구현 기능  
+* 해당 프로젝트에서 발생한 모든 산출물 목록이 출력되고, 상세정보 확인 및 다운로드가 가능한 페이지
+
+<br/>
+
 
