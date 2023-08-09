@@ -32,7 +32,6 @@
 
 <br/>
 
-### 📌 주요 기능
 > 프로젝트 등록 화면
 <img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/7fb649d1-f711-4d61-91d2-017f824e77d3"/>
   
