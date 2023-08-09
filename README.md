@@ -40,4 +40,14 @@
 
 <br/>
 
+> wbs 차트 출력 화면
+<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/4177e073-4004-4788-a776-b87951b881f8
+"/>
+  
+📋 구현 기능  
+* 해당 프로젝트의 진척도를 한 눈에 볼 수 있게끔 차트로 출력되는 페이지
+
+<br/>
+
+
  
