@@ -57,4 +57,12 @@
 
 <br/>
 
- 
+> 팀원의 작업 진척도 출력 화면
+<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/38dc98e7-f765-4a7b-b6e7-2e864ad0a3ba"/>
+  
+📋 구현 기능  
+* 작업 관리 탭에서 일반 작업 세부 탭을 클릭하면 팀원이 진행하는 작업 목록과 진척도를 도넛 차트로 출력되는 페이지
+
+<br/>
+
+
