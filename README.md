@@ -92,3 +92,11 @@
 
 <br/>
 
+> 이슈 사항 관리 페이지
+<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/f1280002-c603-4a7e-b384-650e828fbf89"/>
+  
+📋 구현 기능  
+* PA는 PM에게 이슈 사항 처리를 요청 할 수 있다.
+* PM은 PA가 요청한 이슈 사항에 대한 처리를 할 수 있다.
+
+<br/>
