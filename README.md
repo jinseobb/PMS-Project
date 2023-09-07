@@ -82,7 +82,7 @@
 
 > 개인 및 팀원 일정 출력 화면
 <img width="350px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/f6d3be07-5647-420e-8f74-4146eb01a809"/>
-<img width="350px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/7dc37f2e-9504-4e34-b272-b3fda972ecd3"/>
+<img width="350px" height="197px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/7dc37f2e-9504-4e34-b272-b3fda972ecd3"/>
   
 📋 구현 기능  
 * 모든 팀원의 일정을 확인 할 수 있는 페이지
