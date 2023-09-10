@@ -12,8 +12,8 @@
 <br/>
   
 > ## ⚙ 개발 환경
-* `Java 8`
-* `JDK 1.8.0`
+* `Java 11`
+* `JDK 11.0.1`
 - **IDE** : Eclipse
 - **Database** : Oracle DB(11xe)
 
