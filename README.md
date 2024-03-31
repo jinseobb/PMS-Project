@@ -26,7 +26,7 @@
 </br>
 
 > ## :keyboard:DB 설계
-<p align="center"><img width="550px" src="https://github.com/ukkkk7/PMS-Project/assets/117158625/304795d2-d019-43c9-944a-134d77cb1632" width="550" height="400"/></p>   
+<p align="center"><img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/59a644a3-d289-4f33-83a3-5417321304e5" width="550" height="400"/></p>   
 
 </br></br>
 
